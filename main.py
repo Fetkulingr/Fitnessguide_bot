@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2022/04/15
+Ending 2022/04/16
+
+'''
 # Установка необходимых библиотек
 import sqlite3
 import telebot
